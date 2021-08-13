@@ -14,3 +14,7 @@
  6. Now cd into the Client folder and run "npm start"
 
 
+# Add items
+1. Create a new account and/or login to an existing account.
+2. Go to yourserveraddress/AddItem
+
